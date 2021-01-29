@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1601435725 source:f:\_2021\scu\scu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1601437241 source:f:\_2021\scu\scu\main_1.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

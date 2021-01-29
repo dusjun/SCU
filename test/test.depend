@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602555341 source:f:\_2021\scu\test\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1603079578 source:f:\_2021\scu\gui\main.cpp
+	<windows.h>
+	"SYSMETS.H"
+
+1603086149 f:\_2021\scu\gui\sysmets.h
+	<tchar.h>
+	<Windows.h>
+

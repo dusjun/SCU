@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603087343 source:f:\_2021\scu\gui2\main.cpp
+	<tchar.h>
+	<windows.h>
+
